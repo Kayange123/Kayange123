@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kayange123
 - 👀 I’m interested in full stack web development 
 - 🌱 I’m currently learning information technology 
-- 💞️ I’m looking to collaborate on web applications development 
-- 📫 Reach me out via 📧 ayubukayange98@gmail.com
+- 💞️ I’m looking to collaborate on mobile/ web apps development 
 
 <!---
 Kayange123/Kayange123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
