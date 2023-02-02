@@ -1,9 +1,36 @@
-- 👋 Hi, I’m @Kayange123
-- 👀 I’m interested in full stack web development 
-- 🌱 I’m currently learning information technology 
-- 💞️ I’m looking to collaborate on mobile/ web apps development 
+# Ayubu Kayange
 
-<!---
-Kayange123/Kayange123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```js
+import SoftwareDeveloper from '@kayange123';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Ayubu Kayange';
+  title    = 'Software Engineer';
+  company  = '@virgoTech | Remote';
+  location = 'Dar Es Salaam, Tanzania';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP', 'TypeScript'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Angular', 'GraphQL', 'NodeJs'];
+}
+```
+
+
+
+
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{kayange123}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kayange123&show_icons=true&theme=synthwave" alt="reisub0" /> 
+
+</p>
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayange123&langs_count=10&theme=tokyonight&layout=compact" alt="kayange123 :: Top Langs" /></p>
