@@ -24,11 +24,11 @@ class Skills extends SoftwareDeveloper {
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{kayange123}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{kayange123}/count.svg" alt="kayange123 :: Visitor's Count" /></p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayange123&show_icons=true&theme=synthwave" alt="reisub0" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=kayange123&show_icons=true&theme=synthwave" alt="kayange123" /> 
 
 </p>
 <h4 align="center">Top langs :tongue:</h4>
