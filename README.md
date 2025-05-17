@@ -36,7 +36,7 @@ Welcome to my GitHub profile.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kayange)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kayange)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://www.x.com/AyubuKayange)
 [![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:kayangejr3@gmail.com)
 
