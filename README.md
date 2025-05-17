@@ -1,36 +1,53 @@
-# Ayubu Kayange
+# 👋 Hello! I'm Ayubu Emanuel Kayange
 
-```js
-import SoftwareDeveloper from '@kayange123';
+Welcome to my GitHub profile.
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Ayubu Kayange';
-  title    = 'Software Engineer';
-  company  = '@virgoTech | Remote';
-  location = 'Dar Es Salaam, Tanzania';
-}
+## 👨‍💻 About Me
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['Java', 'PHP', 'TypeScript'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL', 'NodeJs', 'Spring Boot'];
-}
-```
+- I am a passionate software developer with a strong interest in building scalable, efficient, and impactful solutions.
+- I have experience in both frontend and backend development, and enjoy contributing to open source projects.
+- I am committed to continuous learning and keeping up with the latest advancements in technology.
+- I value collaboration, code quality, and knowledge sharing.
+
+## 🛠️ Technical Skills
+
+- **Languages:** JavaScript, TypeScript, Java, C#
+- **Frameworks/Libraries:** React, Node.js, Spring, Laravel
+- **Tools & Platforms:** Git, Docker, GitHub Actions, VS Code
+
+## 🚀 Stats
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Kayange123&color=blue&style=flat-square)
+
+![Kayange123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayange123&show_icons=true&theme=radical)
+![Kayange123's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayange123&layout=compact&theme=radical)
+
+## Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kayange123&theme=radical&hide_border=true)
 
 
+## 💡 Interests
 
+- Cloud computing, distributed systems, and automation
+- Open source collaboration and community engagement
+- Continuous integration and delivery (CI/CD)
+- Problem-solving through technology
 
+## 📫 Let's Connect
 
-<h2 align="center">Github stats :bar_chart:</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kayange)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://www.x.com/AyubuKayange)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:kayangejr3@gmail.com)
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{kayange123}/count.svg" alt="kayange123 :: Visitor's Count" /></p>
+## ☕ Support Me
 
+If you’d like to support my work:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayange123&show_icons=true&theme=synthwave" alt="kayange123" /> 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_Coffee-grey?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/kayange)
 
-</p>
-<h4 align="center">Top langs :tongue:</h4>
+---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayange123&langs_count=10&theme=tokyonight&layout=compact" alt="kayange123 :: Top Langs" /></p>
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+Thank you for visiting my profile! Feel free to explore my repositories or connect with me for collaboration opportunities.
