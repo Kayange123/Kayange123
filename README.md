@@ -1,53 +1,55 @@
-# 👋 Hello! I'm Ayubu Emanuel Kayange
+# Hi, I'm Ayubu Kayange
 
-Welcome to my GitHub profile.
+Software Engineer · Backend Systems · Distributed Systems · Open Source
 
-## 👨‍💻 About Me
+I design and build APIs, services, and libraries meant to run in production, not just demo well. My work centers on backend architecture, data consistency, and systems that stay maintainable as they grow — with full-stack range when a product needs a UI in front of them.
 
-- I am a passionate software developer with a strong interest in building scalable, efficient, and impactful solutions.
-- I have experience in both frontend and backend development, and enjoy contributing to open source projects.
-- I am committed to continuous learning and keeping up with the latest advancements in technology.
-- I value collaboration, code quality, and knowledge sharing.
+## What I work on
 
-## 🛠️ Technical Skills
+- Backend services and REST APIs (Java/Spring Boot, TypeScript/NestJS)
+- System design: data modeling, service boundaries, fault tolerance
+- Developer-facing libraries and starter kits others can build on
+- Full-stack product work (React, Next.js) when the whole stack is mine to own
 
-- **Languages:** JavaScript, TypeScript, Java, C#
-- **Frameworks/Libraries:** React, Node.js, Spring, Laravel
-- **Tools & Platforms:** Git, Docker, GitHub Actions, VS Code
+## Featured engineering work
 
-## 🚀 Stats
+**[ChemistryLab OS](https://github.com/Kayange123/chemistrylab-os)**
+An open platform for interactive chemistry education, architected so reactions and molecules are declarative data (versioned JSON Schema) interpreted by a framework-agnostic core — not one hardcoded animation per reaction. Early-stage (v0.1), but built with the process of a larger project from day one: an RFC for its core data format, an architecture doc, a governance model, contribution guides, and CI.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Kayange123&color=blue&style=flat-square)
+**[typed-totp](https://github.com/Kayange123/typed-totp)**
+A TypeScript-first, zero-dependency TOTP (RFC 6238) / HOTP (RFC 4226) implementation, verified against the official RFC test vectors. Built on Web Crypto rather than a third-party crypto package, with a ports-and-adapters design — clock, randomness, HMAC, and secret encoding are all swappable, dependency-injected components rather than hardcoded calls.
 
-![Kayange123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayange123&show_icons=true&theme=radical)
-![Kayange123's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayange123&layout=compact&theme=radical)
+**[nestjs-starter](https://github.com/Kayange123/nestjs-starter)**
+A production-oriented NestJS API starter: JWT auth, role/permission-based access control, PostgreSQL via TypeORM, Swagger documentation, health checks, Dockerized local and production environments, and GitHub Actions pipelines for CI and deployment. Reused as the base for other services in this profile.
 
-## Streak
+**[ecommerce-dashboard](https://github.com/Kayange123/ecommerce-dashboard)**
+A full-stack Next.js admin dashboard for managing stores, categories, and products, backed by Prisma, MongoDB, and Clerk authentication. The most-used project on this profile by external engagement — evidence of shipping a complete product end to end, not just backend pieces.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kayange123&theme=radical&hide_border=true)
+## Engineering stack
 
+**Languages** — Java · TypeScript · JavaScript
 
-## 💡 Interests
+**Backend** — Spring Boot · NestJS · Node.js · REST APIs
 
-- Cloud computing, distributed systems, and automation
-- Open source collaboration and community engagement
-- Continuous integration and delivery (CI/CD)
-- Problem-solving through technology
+**Frontend** — React · Next.js
 
-## 📫 Let's Connect
+**Data** — PostgreSQL · MongoDB
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kayange)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://www.x.com/AyubuKayange)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:kayangejr3@gmail.com)
+**Infrastructure** — Docker · GitHub Actions · CI/CD
 
-## ☕ Support Me
+**Architecture** — System design · API design · service-oriented backends
 
-If you’d like to support my work:
+## Engineering interests
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_Coffee-grey?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/kayange)
+Distributed systems, event-driven architecture, and data consistency at the service boundary. Developer tooling and reusable backend components — libraries and starter kits that reduce the setup cost of the next project rather than being written once and forgotten. Open-source infrastructure with real process behind it: RFCs, governance, and documentation, not just code.
 
----
+## Open source
 
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+Most of what I publish is meant to be used, not just read: a starter kit other services in this profile are already built on, a library validated against its RFCs, an education platform designed for non-programmers to contribute to as well. I'm increasingly building toward reusable infrastructure — developer tooling, and eventually platform and backend components meant for reuse beyond a single project. Issues and contributions are welcome on any of the projects above.
 
-Thank you for visiting my profile! Feel free to explore my repositories or connect with me for collaboration opportunities.
+## Connect
+
+- Portfolio: [kayange-pro.vercel.app](https://kayange-pro.vercel.app)
+- LinkedIn: [linkedin.com/in/kayange](https://www.linkedin.com/in/kayange)
+- Twitter/X: [@AyubuKayange](https://x.com/AyubuKayange)
+- Email: kayangejr3@gmail.com
