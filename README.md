@@ -19,8 +19,8 @@ Welcome to my GitHub profile.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kayange123&color=blue&style=flat-square)
 
-![Kayange123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayange123&show_icons=true&theme=radical)
-![Kayange123's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayange123&layout=compact&theme=radical)
+![](https://github-readme-stats.shion.dev/api?username=kayange123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kayange123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Streak
 
